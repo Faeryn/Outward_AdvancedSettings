@@ -1,0 +1,10 @@
+{
+    "name": "AdvancedSettings",
+    "author": "Faeryn",
+    "version_number": "0.1.0",
+    "website_url": "",
+    "description": "Allows the user to change the Antialiasing mode to TAA (Temporal Antialiasing).",
+    "dependencies": [
+        "BepInEx-BepInExPack_Outward-5.4.18"
+    ]
+}
